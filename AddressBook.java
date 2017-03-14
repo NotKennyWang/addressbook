@@ -11,3 +11,8 @@ public class AddressBook {
 		friends = new Contact[10];
 		numfriends = 0;
     }
+public static void main{
+	if(grade.APCompSci == 0){
+		System.out.println(" hello kevin");
+	}
+}
